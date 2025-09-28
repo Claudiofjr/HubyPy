@@ -2,9 +2,6 @@
 
 Uma aplicação de desktop construída em Python com Tkinter para gerenciar listas de contatos e automatizar o envio de mensagens no WhatsApp, utilizando a integração com o WPPConnect Server.
 
-![Placeholder para Screenshot](https://i.imgur.com/g8e1BAb.png)
-*(Recomenda-se substituir esta imagem por um screenshot real da aplicação em funcionamento)*
-
 ## Principais Funcionalidades
 
 - **👨‍👩‍👧‍👦 Gerenciamento de Múltiplos Perfis**: Adicione e gerencie várias contas de WhatsApp. A aplicação salva as sessões para reconexão rápida.
