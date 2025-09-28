@@ -108,4 +108,4 @@ Contribuições são bem-vindas! Se você tiver ideias para novas funcionalidade
 
 ## Licença
 
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+...
